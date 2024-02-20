@@ -1,0 +1,12 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "nutgram/nutgram": "^3.17",
+        "vlucas/phpdotenv": "^5.5",
+        "symfony/dotenv": "^6.2",
+        "fenguoz/tron-php": "^2.0",
+        "symfony/cache": "^6.2",
+        "guzzlehttp/guzzle": "^7.5",
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
